@@ -3,7 +3,7 @@ plugins {
     id 'maven-publish'
 }
 
-def VERSION_NAME = "2.1.3"
+def VERSION_NAME = "2.1.4"
 
 ext {
     bintrayRepo = 'maven'
